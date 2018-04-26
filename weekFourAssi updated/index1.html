@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>A function that uses the % along with && </h2>
+
+<p>This example calls a function which
+     performs a calculation and returns 
+     the result:</p>
+
+<p id="demo"></p>
+
+<script>
+    function demo (msg){
+        document.getElementById("demo").innerHTML +=msg + "\n";
+    }
+    function myFunction(a, b) {
+    return a % b;
+}
+var result = myFunction(13, 5);
+demo(result);
+
+</script>
+<br>
+<script>
+        function demo (msg){
+            document.getElementById("demo").innerHTML +=msg + "\n";
+        }
+        function myFunction(a, b) {
+        return a && b;
+    }
+    var result = myFunction(23, 5);
+    demo(result);
+     </script>
+
+</body>
+</html>
