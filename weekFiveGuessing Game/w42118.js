@@ -4,7 +4,7 @@ var secretQuestion1 = document.getElementById('Secret-question1');
 secretQuestion1.addEventListener('submit', function() {
 	var firstAnswer1 = document.getElementById('first-input1');
 	var myResponse1 = document.getElementById('response1');
-	var rightAnswer1 = ('Rom');
+	var rightAnswer1 = ('Rom','ROM');
 
 	event.preventDefault();
 	
