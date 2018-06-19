@@ -1,0 +1,65 @@
+{
+    "Cards": [
+        {
+            "id": 1,
+            "eng": "boy",
+            "han": "ወንድ",
+            "pin": "wenidi"
+        },
+        {
+            "id": 2,
+            "eng": "girl",
+            "han": "ሴት ልጅ",
+            "pin": "sēti liji"
+        },
+        {
+            "id": 3,
+            "eng": "orange",
+            "han": "ብርቱካናማ",
+            "pin": "biritukanama"
+        },
+        {
+            "id": 4,
+            "eng": "banana",
+            "han": "ሙዝ",
+            "pin": "muzi"
+        },
+        {
+            "id": 5,
+            "eng": "strawberry",
+            "han": "እንጆሪ",
+            "pin": "inijorī"
+        },
+        {
+            "id": 6,
+            "eng": "apple",
+            "han": "ፖም",
+            "pin": "pomi"
+        },
+        {
+            "id": 7,
+            "eng": "mango",
+            "han": "ማንጎ",
+            "pin": "wenidi"
+        },
+        {
+            "id": 8,
+            "eng": "avocado",
+            "han": "አቦካዶ",
+            "pin": "ābokado"
+        },
+        {
+            "id": 9,
+            "eng": "red",
+            "han": "ቀይ",
+            "pin": "k’eyi"
+        },
+        {
+            "id": 10,
+            "eng": "yellow",
+            "han": "ቢጫ",
+            "pin": "bīch’a"
+        }
+
+    ]
+}

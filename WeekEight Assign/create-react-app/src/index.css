@@ -1,0 +1,16 @@
+button{
+  font-size: 18px;
+  padding: 10px;
+  margin: 5px;
+  background-color:  green;
+  border: 1px solid black;
+  border-radius: 5px;
+  }
+
+button :hover {
+  background-color: rgba(red, green, blue, alpha);
+}
+
+body {
+  font-size: 25px;
+  }
